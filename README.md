@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+<img width=100% src="https://user-images.githubusercontent.com/97575616/192401215-519bb97e-78df-475d-a25b-1bbf8afc813a.png" >
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📌 Project Description
 
-## Available Scripts
+<p align="justify">This project is the front-end of my first project fullstack. MyWallet is a simple finance app, where you can register yours financial incomings and outgoings daily,
+and see your balance. All datas are editable and they can be deleted too</p>
 
-In the project directory, you can run:
 
-### `npm start`
+## 📸 Mockup
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<div  align="center" >
+<img src="https://user-images.githubusercontent.com/97575616/172017747-3254b7f8-bdbf-4990-8058-1cbc779d5e24.png" alt="mockup">
+</div>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🚧 Status of work
 
-### `npm test`
+![status](https://img.shields.io/badge/Status-Finished-00920F?style=plastic)<br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<!-- ![status](https://img.shields.io/badge/Status-Progress-FFE70C?style=plastic) -->
 
-### `npm run build`
+## ✅ Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+-   [x] `Sign Up` - Receives username, avatar, email and password.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+-   [x] `Login` - Receives email and password.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+-   [x] `Registers` - you can register a incoming or a outgoing of money
 
-### `npm run eject`
+-   [x] `Edit register` - You can edit a register
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+-   [x] `Record register` - you can see all of yours register and the balance amount
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🛠️ Build with
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![uses-react](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
+![uses-node js](https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white)
+![npm](https://img.shields.io/badge/npm-D12228?style=plastic&logo=npm)
+![express](https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=white)
+[![uses-javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)](https://www.javascript.com)
+![built-with-git](https://img.shields.io/badge/Git-E34F26?style=plastic&logo=git&logoColor=white)
+![built-with-vsc](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=plastic&logo=visualstudiocode)
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
